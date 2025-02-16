@@ -1,6 +1,6 @@
-# Challenge Tracker
+# Hatchieve
 
-Challenge Tracker is a React application that allows users to create, manage, and track challenges with different statuses. Users can add challenges, mark them as completed or failed, and view challenge details.
+Hatchieve is a React application that allows users to create, manage, and track challenges with different statuses. Users can add challenges, mark them as completed or failed, and view challenge details.
 
 ## Features
 
@@ -78,7 +78,3 @@ npm run build
 ```
 
 This generates the production build inside the `dist/` folder. You can host it on platforms like Vercel, Netlify, or Firebase Hosting.
-
-## Author
-
-Developed by **Gerry Desrian**.
